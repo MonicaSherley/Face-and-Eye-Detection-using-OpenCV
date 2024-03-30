@@ -7,3 +7,7 @@ OpenCV  is an image processing library for python. It is the most popular librar
 ALGORITHMS : HAAR CASCADE CLASSIFIER
 
 The Haar cascade classifier is an effective way to detect various objects in the surroundings. This method is also used in detection of face and eyes. The main objective of the Haar cascade classifier is a collection of a lot of positive images and negative images which are later on to train the classifier. Positive images are the images that you want our classifier to identity and negative images are images of everything they don’t want our classifier to detect.
+
+
+![Result](https://github.com/MonicaSherley/Face-and-Eye-Detection-using-OpenCV/assets/108649555/67aa5a0a-42b3-4d9e-be66-bdfb4de016d2)
+
